@@ -298,7 +298,7 @@
 
             <dd class="clear"></dd>
 
-            <dt id="skills" style="height: 575px;"><a id="nostyle" href="#skills">Skills</a></dt>
+            <dt id="skills" style="height: 820px;"><a id="nostyle" href="#skills">Skills</a></dt>
             <dd>
                 <h5>Computer Security</h5>
                 <ul id="doublelist">
@@ -311,28 +311,32 @@
                 </ul>
 
                 <br>
-                <h5>Software Development</h5>
+                <h5>Security Research</h5>
+                <h6><a href="https://github.com/Syslifters/sysreptor/security/advisories/GHSA-pcpr-q2qj-3v43" target="_blank" style="color: #FFD700;"><b>CVE-2026-42291</b></a><span> 22 Apr 2026</span></h6>
+                <h6><i>Read-write access to personal notes by sharing-link creation with no authorization in SysReptor Professional</i></h6>
+
+                <h6><a href="https://github.com/home-assistant/core/security/advisories/GHSA-r584-6283-p7xc" target="_blank" style="color: #FFD700;"><b>CVE-2026-33044</b></a><span> 27 Mar 2026</span></h6>
+                <h6><i>Stored XSS in Map-card through malicious device name (Home Assistant)</i></h6>
+
+                <h6><a href="https://github.com/home-assistant/core/security/advisories/GHSA-46j8-vpx8-6p72" target="_blank" style="color: #FFD700;"><b>CVE-2026-33045</b></a><span> 27 Mar 2026</span></h6>
+                <h6><i>Stored XSS in history-graphs (Home Assistant)</i></h6>
+
+                <h6><a href="https://github.com/home-assistant/core/security/advisories/GHSA-mq77-rv97-285m" target="_blank" style="color: #FF4500;"><b>CVE-2025-62172</b></a><span> 14 Oct 2025</span></h6>
+                <h6><i>Stored XSS in graph tooltip from entity name (Home Assistant)</i></h6>
+
                 <p>
-                    Experience using many different programming languages and stacks. My strongest languages and
-                    frameworks are:
-                <ul id="quadlist" style="margin-top: -15px;">
-                    <li><strong>Python</strong></li>
-                    <ul>
-                        <li><i>Django</i></li>
-                    </ul>
-                    <li><strong>NodeJS</strong></li>
-                    <ul>
-                        <li><i>Electron</i></li>
-                    </ul>
-                    <li>JAVA</li>
-                    <ul>
-                        <li><i>Spring</i></li>
-                    </ul>
-                    <li>C</li>
-                    <ul>
-                        <li><i>WebRTC</i></li>
-                    </ul>
-                </ul>
+                <br>
+                Bug Bounty Profiles:
+                <p style="display: flex; justify-content: space-evenly; align-items: flex-start;">
+                    <span style="display: flex; flex-direction: column; align-items: center; width: 46px;">
+                        <a href="https://hackerone.com/pwn_panda?type=user" target="_blank" data-toggle="tooltip" title="HackerOne profile" style="display: flex; align-items: center; justify-content: center; width: 46px; height: 46px;"><img style="max-width: 100%; max-height: 100%;" src="images/h1_mark_black.png" alt="HackerOne"></a>
+                        <a href="https://hackerone.com/pwn_panda?type=user" target="_blank" style="font-size: 0.8em; margin-top: 4px;">profile</a>
+                    </span>
+                    <span style="display: flex; flex-direction: column; align-items: center; width: 46px;">
+                        <a href="https://app.intigriti.com/profile/pwn_panda" target="_blank" data-toggle="tooltip" title="Intigriti profile" style="display: flex; align-items: center; justify-content: center; width: 46px; height: 46px;"><img style="max-width: 100%; max-height: 100%;" src="images/intigriti.webp" alt="Intigriti"></a>
+                        <a href="https://app.intigriti.com/profile/pwn_panda" target="_blank" style="font-size: 0.8em; margin-top: 4px;">profile</a>
+                    </span>
+                </p>
                 </p>
 
                 <br>
@@ -387,7 +391,7 @@
 
             <dd class="clear"></dd>
 
-            <dt id="experience" style="height: 1260px;"><a id="nostyle" href="#experience">Experience</a></dt>
+            <dt id="experience" style="height: 1515px;"><a id="nostyle" href="#experience">Experience</a></dt>
             <dd>
 
                 <!-- Job 1 -->
@@ -531,7 +535,7 @@
             <dd>
                 <h4>Non-Commissioned Officer <span>UB-Jeger</span></h4>
                 <h6>
-                    <a href="https://forsvaret.no/hv/det-siste-kullet" target="_blank" style="color: #4b5320">The
+                    <a href="https://no.wikipedia.org/wiki/Heimevernets_befalsskole" target="_blank" style="color: #4b5320">The
                         Norwegian Home Guard's NCO School</a>
                     <span>~ 2011 - 2012</span>
                 </h6>
@@ -560,21 +564,15 @@
 
                 <!-- Badges -->
 
-                <p><a href="https://www.youracclaim.com/badges/9cf1e868-8644-45ab-a669-8ce1b3c2d29e/public_url"><img
-                            style="margin-left: 1em;"
+                <p style="display: flex; justify-content: space-evenly; align-items: center;">
+                    <a href="https://www.youracclaim.com/badges/9cf1e868-8644-45ab-a669-8ce1b3c2d29e/public_url"><img
                             src="https://images.credly.com/size/340x340/images/394a708e-5858-4a2c-89ff-407fc4c34509/image.png"
-                            height="100" width="100" align="left" alt="GPEN"> </a><a
-                        href="https://www.youracclaim.com/badges/9cf1e868-8644-45ab-a669-8ce1b3c2d29e/public_url"></a>
-                </p>
-                <p><a href="https://www.youracclaim.com/badges/257f27da-5e95-40d2-ae94-d81e26ef509d/public_url"><img
-                            style="margin-left: 4em;"
+                            height="100" width="100" alt="GPEN"></a>
+                    <a href="https://www.youracclaim.com/badges/257f27da-5e95-40d2-ae94-d81e26ef509d/public_url"><img
                             src="https://images.credly.com/size/340x340/images/efd77bd2-ab34-4323-b427-47b3e7136029/image.png"
-                            height="100" width="100" align="left" alt="Adv_Board"> </a><a
-                        href="https://www.youracclaim.com/badges/257f27da-5e95-40d2-ae94-d81e26ef509d/public_url"></a>
+                            height="100" width="100" alt="Adv_Board"></a>
                 </p>
-                <p><a href="https://hackerone.com/pwn_panda?type=user" data-toggle="tooltip" title="H1 profile"
-                        alt="HackerOne profile"><img style="margin-left: 4em; width: 46px;"
-                            src="images/h1_mark_black.png"></a></p>
+
             </dd>
 
 
@@ -627,7 +625,7 @@
 
             <dd class="clear"></dd>
 
-            <dt id="hobbies" style="height: 120px;"> <a id="nostyle" href="#hobbies">Hobbies</a></dt>
+            <dt id="hobbies" style="height: 45px;"> <a id="nostyle" href="#hobbies">Hobbies</a></dt>
             <dd>
                 <ul class="subheader" style="margin-top: 0.5em; margin-left: -2em;">
                     <a class="interest" alt="Photography" data-toggle="tooltip" title="Photography"> <i
@@ -647,7 +645,7 @@
 
             <dd class="clear"></dd>
 
-            <dt id="references" style="height: 50px;"><a id="nostyle" href="#references">References</a></dt>
+            <dt id="references" style="height: 35px;"><a id="nostyle" href="#references">References</a></dt>
             <dd>Available upon request</dd>
         </dl>
 
