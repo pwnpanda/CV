@@ -13,7 +13,7 @@
     <title>Robin's Resume</title>
     <meta property="og:title" content="pwn_panda.">
     <meta property="og:url" content="https://robinlunde.com/">
-    <meta property="og:image" content="https://h4x.fun/log/logo">
+    <meta property="og:image" content="https://h4x.fun/static/images/Panda_hut_250_noise.jpg">
     <meta property="og:description" content="Robin Lunde &mdash; Security Engineer, Researcher &amp; Pen tester.">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
@@ -237,7 +237,7 @@
     <div id="page-wrap">
 
         <!-- I know you now ;) -->
-        <img src="https://h4x.fun/log/logo?cv=en" alt="Pwn Panda" id="pic" />
+        <img src="https://h4x.fun/static/images/Panda_hut_250_noise.jpg?cv=en" alt="Pwn Panda" id="pic" />
 
         <div id="contact-info" class="vcard">
 
