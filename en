@@ -313,7 +313,7 @@
                 <br>
                 <h5>Security Research</h5>
                 <h6><a href="https://github.com/Syslifters/sysreptor/security/advisories/GHSA-pcpr-q2qj-3v43" target="_blank" style="color: #FFD700;"><b>CVE-2026-42291</b></a><span> 22 Apr 2026</span></h6>
-                <h6><i>Read-write access to personal notes by sharing-link creation with no authorization in SysReptor Professional</i></h6>
+                <h6><i>Read-write access to personal notes by sharing-link creation with no authorization (SysReptor)</i></h6>
 
                 <h6><a href="https://github.com/home-assistant/core/security/advisories/GHSA-r584-6283-p7xc" target="_blank" style="color: #FFD700;"><b>CVE-2026-33044</b></a><span> 27 Mar 2026</span></h6>
                 <h6><i>Stored XSS in Map-card through malicious device name (Home Assistant)</i></h6>
