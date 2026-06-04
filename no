@@ -381,9 +381,7 @@
                 <br>
                 <h5>Lederskap</h5>
                 <p>Jeg har lederskapserfaring fra mange og varierte bakgrunner. Jeg var tidligere ansvarlig for LINE's
-                    Bug Bounty avdeling og daglig drift. Jeg har tjenestegjort som lagfører i Forsvaret, jobbet som
-                    turistguide for større grupper og var også Visepresident og medgrunnlegger til en forening ved Keio
-                    University.
+                    Bug Bounty avdeling og daglig drift. Jeg har tjenestegjort som lagfører i Forsvaret og leder nå sikkerhetsavdelingen i Semaphore.
                 </p>
             </dd>
 
@@ -391,13 +389,13 @@
 
             <dd class="clear"></dd>
 
-            <dt id="experience" style="height: 1515px;"><a id="nostyle" href="#experience">Erfaring</a></dt>
+            <dt id="experience" style="height: 1400px;"><a id="nostyle" href="#experience">Erfaring</a></dt>
             <dd>
 
                 <!-- Job 1 -->
                 <h4><a href="https://no.semaphore.global/" target="_blank" style="color: #f59a28"><b>Semaphore
                             Consulting Partners</b></a><span> ~ 2023 - nå</span></h4>
-                <h6><i>Sikkerhetskonsulent & Penetrasjonstester</i> <span>Oslo, Norge</span></h6>
+                <h6><i>Team lead, Sikkerhetskonsulent & Penetrasjonstester</i> <span>Oslo, Norge</span></h6>
                 <ul>
                     <li>Red Team Aktiviteter</li>
                     <li>Utvikling av offensive verktøy</li>
@@ -477,6 +475,7 @@
                 </ul>
 
                 <!-- Job 5 -->
+                <!--
                 <br>
                 <h4><b>Mathy Travels</b> <span> ~ 2014-2016</span></h4>
                 <h6><i>Turguide</i> <span>Oslo, Norge</span></h6>
@@ -485,8 +484,10 @@
                     <li>Bekreftet reservasjoner og planla tur-ruter</li>
                     <li>Guidet ved severdigheter og fra buss <i>(inkl. å gi veibeskrivelse til bussjåfør)</i></li>
                 </ul>
+                -->
 
                 <!-- Job 6 -->
+
                 <br>
                 <h4><a href="https://forsvaret.no/" target="_blank" style="color: #4b5320"><b>Forsvaret</b></a> <span> ~
                         2012 - 2013</span></h4>

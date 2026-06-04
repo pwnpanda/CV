@@ -382,8 +382,7 @@
                 <br>
                 <h5>Leadership</h5>
                 <p>I have experience serving as a leader in many environments. I was in charge of LINE's Bug Bounty team
-                    and day to day operations. I was a squad leader in the army, I worked as a tour-guide for large
-                    groups and I was the co-founder and Vice-President of a club at my university.
+                    and day to day operations. I was a squad leader in the army and I am currently the team lead for the security team at Semaphore.
                 </p>
             </dd>
 
@@ -391,13 +390,13 @@
 
             <dd class="clear"></dd>
 
-            <dt id="experience" style="height: 1515px;"><a id="nostyle" href="#experience">Experience</a></dt>
+            <dt id="experience" style="height: 1400px;"><a id="nostyle" href="#experience">Experience</a></dt>
             <dd>
 
                 <!-- Job 1 -->
                 <h4><a href="https://no.semaphore.global/" target="_blank" style="color: #f59a28"><b>Semaphore
                             Consulting Partners</b></a><span> ~ 2023 - present</span></h4>
-                <h6><i>Security consultant & Penetration tester</i> <span>Oslo, Norway</span></h6>
+                <h6><i>Team lead, Security consultant & Penetration tester</i> <span>Oslo, Norway</span></h6>
                 <ul>
                     <li>Red Team Activities</li>
                     <li>Offensive toolset development</li>
@@ -476,6 +475,7 @@
                 </ul>
 
                 <!-- Job 5 -->
+                <!--
                 <br>
                 <h4>Mathy Travels <span> ~ 2014-2016</span></h4>
                 <h6>Tour Guide <span>Oslo, Norway</span></h6>
@@ -484,6 +484,7 @@
                     <li>Confirmed reservations and planned tour routes</li>
                     <li>Guiding on location and from the bus <i>(incl. giving directions to driver)</i></li>
                 </ul>
+                -->
 
                 <!-- Job 6 -->
                 <br>
